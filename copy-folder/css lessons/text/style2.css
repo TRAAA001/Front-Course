@@ -1,0 +1,16 @@
+.p1{
+    text-decoration: underline rebeccapurple 5px;
+}
+.p2{
+    text-decoration: underline;
+}
+.p3{
+    text-decoration: underline;
+}
+body{
+background: url(/img/2.jpg) center / cover no-repeat;
+background-attachment: fixed;
+background-blend-mode: darken;
+background-color: rgba(0, 0, 0, 0.267);
+color: snow;
+}

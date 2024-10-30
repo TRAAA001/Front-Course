@@ -1,0 +1,28 @@
+div h1{
+    color: red;
+}
+main > p{
+    color: blue;
+}
+main ~ h1{
+    color: grey;
+}
+main + h1{
+    color: gold;
+}
+.text1{
+    color: brown;
+}
+.text2{
+    color: aqua;
+}
+#text{
+    color: rebeccapurple;
+}
+body{
+    background-color: black;
+}
+*{
+    background-color: black;
+    color: white;
+}
